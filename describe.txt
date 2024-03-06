@@ -1,0 +1,23 @@
+-slide bc: *** ghi số slide, thêm hình ảnh, hạn chế chữ
+	+ slide1: Học phần, tên đề tài, tên giải thuật chính,thành viên, nhóm mấy, tên gv hướng dẫn
+	+ slide: 
+		-tóm tắt mục nội dung chính: giới thiệu giải thuật "...":
+			+ giới thiệu sơ lược
+			+ hình ảnh ví dụ về giải thuật
+			+ Mô tả tập dữ liệu "quake.dat": chứa thông tin gì? bao gồm các thuộc tính gì ?
+			+ Mục đích tập dữ liệu: dự đoán ... dựa trên các thuộc tính của nó
+			+ hình tạp dữ liệu: ? thuộc tính, ? dòng, ?cột, ? cột nhãn: gồm giá trị trong ngưỡng [..,..] 
+		-
+			+ cách tính toán của 10 bước lặp
+			+ tính nhãn cho phần tử mới tới
+		- Đánh giá giải thuật:
+			+ưu điểm
+			+khuyết điểm
+
+
+- Từ tập dl => lấy 10 phần tử, vài thuộc tính để huấn luyện và kiểm tra
+	+ chạy 10 vòng lặp
+	+ tính trường hợp có 1 phần tử mới tới
+- sử dụng nghi thức hold-out để chia dữ liệu và huấn luyện mô hình
+- các thuật toán sử dụng: randomforest , KNN-Regression, Bagging_linearRegression
+- So sánh giải thuật chính  với các giải thuật còn lại
